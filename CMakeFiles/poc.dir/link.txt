@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/poc.dir/RaspberryPi_CC2500_config.c.o CMakeFiles/poc.dir/RaspberryPi_CC2500_interface.c.o  -o poc -lwiringPi 

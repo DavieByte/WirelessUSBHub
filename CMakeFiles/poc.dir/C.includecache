@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/pi/Desktop/WirelessUSBHub/CC1100-CC2500.h
+
+/home/pi/Desktop/WirelessUSBHub/RaspberryPi_CC2500_config.c
+include.h
+/home/pi/Desktop/WirelessUSBHub/include.h
+
+/home/pi/Desktop/WirelessUSBHub/include.h
+stdint.h
+-
+stdio.h
+-
+wiringPi.h
+-
+wiringPiSPI.h
+-
+CC1100-CC2500.h
+/home/pi/Desktop/WirelessUSBHub/CC1100-CC2500.h
+

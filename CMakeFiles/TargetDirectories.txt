@@ -1,0 +1,3 @@
+/home/pi/Desktop/WirelessUSBHub/CMakeFiles/rebuild_cache.dir
+/home/pi/Desktop/WirelessUSBHub/CMakeFiles/poc.dir
+/home/pi/Desktop/WirelessUSBHub/CMakeFiles/edit_cache.dir
